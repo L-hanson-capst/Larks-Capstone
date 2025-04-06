@@ -23,7 +23,7 @@ email: "lhanson@hpa.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   This website was designed to help you learn piano at your own pace. Please check out the tutorials I have posted! You've got this!
 baseurl: "" # the subpath of your site, e.g. /blog
-url:"": # the base hostname & protocol for your site, e.g. http://example.com
+url:"https://<L-hanson-capst>.github.io": # the base hostname & protocol for your site, e.g. http://example.com
 github_username: L-hanson-capst
 
 # Build settings
