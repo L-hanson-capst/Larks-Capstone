@@ -29,7 +29,7 @@ permalink: /:year/:month/:day/:title/
 collections:
   posts:
     output: true
-
+    permalink: /blog/:name/
 # Build settings
 theme: minima
 plugins:

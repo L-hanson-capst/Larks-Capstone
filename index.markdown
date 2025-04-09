@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-{% for post in site.posts %}
+
 <div class="posts">
   <h2><a>What is the Beginner posts?</a></h2>
   <p>This is more difficult than my basics post. When you feel confident in using both hands, try the songs located in the "Beginner" post below!</p>
@@ -18,10 +18,9 @@ title: Home
 </div>
 
 
+
 ![Piano Image](assets/videos/Piano Photo.jpg.png)
 
-
-{% endfor %}
 
 
 
