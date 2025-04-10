@@ -2,7 +2,6 @@
 layout: post
 title:  "Here Are The Basics Post!"
 date:   2025-02-05 11:02:26 -1000
-permalink: /blog/Here-Are-The-Basics-Post!/
 categories: videos
 ---
 

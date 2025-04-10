@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Sheet Music"
-permalink: /blog/Sheet-Music/
 ---
 
 <h1>This is a photo of which keys correspond to the notes on the sheet music</h1>
