@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Sheet Music"
+date: 2025-04-01
+catogories: videos
 ---
 
 <h1>This is a photo of which keys correspond to the notes on the sheet music</h1>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beginner Posts"
-date: 2025-03-26 12:00:00
+date: 2025-03-26 
 categories: Videos
 ---
 <b>   Here are some beginner videos for you to practice!</b>
