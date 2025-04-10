@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Here Are The Basics Post!"
-date:   2025-02-20 11:02:26 -1000
-categories: videos
+date:   2025-02-20 
+categories: Videos
 ---
 
 
