@@ -19,7 +19,7 @@ title: Home
 
 
 
-![Piano Image](assets/videos/Piano Photo.jpg.png)
+![Piano Image]({{ site.baseurl }}/assets/videos/Piano Photo.jpg.png)
 
 
 
